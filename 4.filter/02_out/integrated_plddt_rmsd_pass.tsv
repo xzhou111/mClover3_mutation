@@ -1,0 +1,7 @@
+sample_id	mean_pLDDT	RMSD_CA	mutation_count	ref_CA_len	query_CA_len	pass_pLDDT	pass_RMSD	final_status	fail_reason	selected_pdb
+sample5	95.9268	1.1586	59	239	239	YES	YES	PASS	PASS	4.filter/01_colabfol/sample5_unrelaxed_rank_001_alphafold2_ptm_model_5_seed_000.pdb
+sample1	95.8292	1.0585	64	239	239	YES	YES	PASS	PASS	4.filter/01_colabfol/sample1_unrelaxed_rank_001_alphafold2_ptm_model_4_seed_000.pdb
+sample2	95.7880	0.9590	53	239	239	YES	YES	PASS	PASS	4.filter/01_colabfol/sample2_unrelaxed_rank_001_alphafold2_ptm_model_4_seed_000.pdb
+sample6	95.5020	1.0699	68	239	239	YES	YES	PASS	PASS	4.filter/01_colabfol/sample6_unrelaxed_rank_001_alphafold2_ptm_model_4_seed_000.pdb
+sample8	95.3899	0.9469	68	239	239	YES	YES	PASS	PASS	4.filter/01_colabfol/sample8_unrelaxed_rank_001_alphafold2_ptm_model_4_seed_000.pdb
+sample3	95.3341	0.9254	54	239	239	YES	YES	PASS	PASS	4.filter/01_colabfol/sample3_unrelaxed_rank_001_alphafold2_ptm_model_3_seed_000.pdb
